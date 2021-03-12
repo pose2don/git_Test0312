@@ -8,7 +8,7 @@ public class git_Test : MonoBehaviour
     void Start()
     {
 
-        Debug.Log("19시 35분");
+        Debug.Log("성덕 브랜치 올리기");
 
     }
 
